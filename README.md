@@ -9,26 +9,13 @@
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
-## About RepositoryTemplate
+## About InpyTime
 <!--Wirte one paragraph of project description -->  
-This project's purpose is to create a make Repository with a collection of default settings  
-
+InpyTime is a WIP Python made Speedrun Retiming Tool that (hopefully) in the future will have loads, pasting YouTube debug info for frames and more!
 ## Overview
 <!-- Write Overview about this project -->
-**If you use this template, you can use this function**
-- Issue Template
-- Pull Request Template
-- Commit Template
-- Readme Template
-- Contribute Template
-- Pull Request Build Test(With Github Actions)
+InpyTime has good time accuracy and very user friendly GUI!
 
-## Getting Started
-**click `Use this template` and use this template!**
-<!--
-### Depencies
- Write about need to install the software and how to install them 
--->
 ### Installing
 <!-- A step by step series of examples that tell you how to get a development 
 env running
@@ -41,28 +28,14 @@ And repeat
 
     until finished
 -->
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
-<!--
-## Deployment
- Add additional notes about how to deploy this on a live system
- -->
-## Contributing
-<!-- Write the way to contribute -->
-I am looking for someone to help with this project. Please advise and point out.  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
+1. Go into the "Releases" tab on the Github repository.
+2. Install the latest version. (ZIP)
+3. Extract the ZIP file.
+4. Run the .exe file inside of it.
+5. RETIME YOUR RUNS!!!!!!!!!!!
 
 ## Authors
-  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
-
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
-who participated in this project.
-<!--
-## Used or Referenced Projects
- - [referenced Project](project link) - **LICENSE** - little-bit introduce
--->
+  - SmandinPY (https://github.com/SmandinPY)
 
 ## License
 
