@@ -14,7 +14,7 @@
 InpyTime is a WIP Python made Speedrun Retiming Tool that (hopefully) in the future will have loads, pasting YouTube debug info for frames and more!
 ## Overview
 <!-- Write Overview about this project -->
-InpyTime has good time accuracy and very user friendly GUI!
+InpyTime has good time accuracy and a very user friendly GUI!
 
 ### Installing
 <!-- A step by step series of examples that tell you how to get a development 
