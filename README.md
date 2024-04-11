@@ -29,11 +29,8 @@ And repeat
     until finished
 -->
 1. Go into the "Releases" tab on the Github repository.
-2. Install the latest version. (ZIP)
-3. Extract the ZIP file.
-4. Run the .exe file inside of it.
-5. RETIME YOUR RUNS!!!!!!!!!!!
-
+2. Install the latest version. (.exe)
+3. Run the .exe file.
 ## Authors
   - SmandinPY (https://github.com/SmandinPY)
 
